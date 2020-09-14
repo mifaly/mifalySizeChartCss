@@ -1,3 +1,7 @@
+.detail-desc-decorate-richtext img {
+    min-width: 96%;
+}
+
 .mifaly_size_chart_wrapper {
     font-size: 16px;
     margin: 1em 2px;
